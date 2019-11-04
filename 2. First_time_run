@@ -15,7 +15,11 @@
 
 # Share button
 - short press will preserve actual footage with approx. 30 secs before and 30 secs after the push
-- long press (xx secs) will reset the wireless network password
+- long press (10 secs) will reset the device to factory settings (light will flash red and then the device will reboot)
+           **OR** this will reset just the wireless name & password. Data from oficial forum are inconclusive.
+
+# Reset with a PIN
+- gently push the button inside the small hole next to the microSD card slot for 1 second. Dunno if unit needs to be powered on or off, **assuming** it needs to be powered on.
 
 # Lights
 - Red: problems with micrSD card
