@@ -1,0 +1,14 @@
+# Howto setup the Dridecam for the first time
+
+- Select microSD card: size: 16GB or more
+- Format micrSD card (FAT32)
+- Insert microSD card
+- Power on the device
+- Light :: green
+- Light :: white
+- Open app
+- Connect to wifi (name: dride...., pass: ilovedride) (this may disconnect Your regular internet connection)
+- Add device
+- Setup resolution and file-timesize
+- Get a regular internet connection back
+- Login do Dride account
