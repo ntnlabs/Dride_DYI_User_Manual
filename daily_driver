@@ -2,8 +2,8 @@
 
 - Regular startup is sound (if turned on), light to green, light to white (approx. 15 secs)
 - File size (for 1920x1080x60fps setup):
--- 1 minute: approx. 70 MB
--- 5 minutes: approx: 350 MB
+  - 1 minute: approx. 70 MB
+  - 5 minutes: approx: 350 MB
 - Every camera has a separate file
 - Files are stored in DCIM/Movie folder
 - Shared events are stored in DCIM/RO folder
