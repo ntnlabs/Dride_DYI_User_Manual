@@ -12,3 +12,12 @@
 - Setup resolution and file-timesize
 - Get a regular internet connection back
 - Login do Dride account
+
+# Share button
+- short press will preserve actual footage with approx. 30 secs before and 30 secs after the push
+- long press (xx secs) will reset the wireless network password
+
+# Lights
+- Red: problems with micrSD card
+- Green: System is on
+- White: Recording
