@@ -8,4 +8,4 @@
 ## [First time run](./2.%20First_time_run.md)
 ## [Daily driver](./3.%20Daily_driver.md)
 ## [Problems](./4.%20Problems.md)
-## FAQ
+## [FAQ](./5.%20FAQ.md)
