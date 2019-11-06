@@ -3,7 +3,7 @@
 
 **This manual was created by users of the Dride dashcam. All information comes without warranty.**
 
-My setup: Dride + rear cam, Android 10
+My setup: Dride + rear cam, 1920x1080x60fps, 5 minutes cycle, Android 10
 
 # What is here
 ## [Installation](./1.%20Installation.md)
